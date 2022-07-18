@@ -1,1 +1,3 @@
-hi this is git repo
+echo "Hellow world"
+echo "This is git repository of Nilesh Vaghela"
+echo "We are testing GIT and Jenkins"
